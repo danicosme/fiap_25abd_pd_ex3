@@ -29,6 +29,7 @@ Para facilitar a implementação, desenvolvemos dois scrpits:
 
 <b>2) move-dataset-to-hdfs.sh:</b> faz a criação da pata no HDFS para armazenar os arquivos .csv e .json e os copia para dentro da pasta. Os comandos utilizados neste script são:
 ><i>hadoop fs -mkdir [nome_diretorio]</i> 
+
 ><i>hadoop fs -put [diretorio_origem] [diretorio_destino]</i>
 
 ## <b>3. Execução dos scripts</b>
