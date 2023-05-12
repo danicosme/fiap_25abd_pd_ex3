@@ -9,17 +9,17 @@ O ambiente de Big Data utilizado neste projeto está disponível no seguinte rep
 O dataset utilizado para essa análise exploratória foi o YouTube Trending Video Dataset, disponível em: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset.
 
 Esse dataset possui as informações de vídeos em alta e categorias de vídeos separados por país, sendo estes: 
-  -Alemanha
-  -Brasil
-  -Canadá
-  -Coréira do Sul
-  -Estados Unidos
-  -França
-  -Grã-Bretanha
-  -Índia
-  -Japão
-  -México
-  -Rússia
+  - Alemanha
+  - Brasil
+  - Canadá
+  - Coréira do Sul
+  - Estados Unidos
+  - França
+  - Grã-Bretanha
+  - Índia
+  - Japão
+  - México
+  - Rússia
 
 ## <b>2. Ingestao arquivos para HDFS </b>
 Para facilitar a implementação, desenvolvemos dois scrpits:
